@@ -2,7 +2,6 @@
 
 Estudiante de **SMX** en transición hacia **DAM**, con un profundo interés en la tecnología, los sistemas y el desarrollo de software. Me atrae especialmente entender cómo funciona la tecnología más allá de la perspectiva del usuario común, combinando infraestructura, redes y código mientras continúo creciendo técnica y profesionalmente.
 
----
 
 ### 🛠️ Tecnologías y herramientas
 
@@ -11,7 +10,6 @@ Estudiante de **SMX** en transición hacia **DAM**, con un profundo interés en 
 * **Plataformas y Servicios:** Moodle, Nextcloud, osTicket, hMailServer.
 * **Desarrollo Web:** HTML / CSS (Básico).
 
----
 
 ### 💼 Experiencia
 
@@ -19,7 +17,6 @@ Estudiante de **SMX** en transición hacia **DAM**, con un profundo interés en 
 * Desarrollo de habilidades clave en atención al cliente, trabajo en equipo y organización en un entorno real.
 * Optimización de la comunicación, alta capacidad de adaptación y resolución de incidencias bajo presión.
 
----
 
 ### 📚 Actualmente
 
@@ -27,7 +24,6 @@ Estudiante de **SMX** en transición hacia **DAM**, con un profundo interés en 
 * 💻 Ampliando conocimientos en desarrollo y arquitectura de software.
 * 🛠️ Construyendo mis primeros proyectos técnicos paso a paso.
 
----
 
 ### 🚀 Objetivos
 
