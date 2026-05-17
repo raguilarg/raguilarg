@@ -1,32 +1,35 @@
 # ¡Hola! Soy Rubén Aguilar 👋
 
-Estudiante de **SMX** en transición hacia **DAM**, con un profundo interés en la tecnología, los sistemas y el desarrollo de software. Me atrae especialmente entender cómo funciona la tecnología más allá de la perspectiva del usuario común, combinando infraestructura, redes y código mientras continúo creciendo técnica y profesionalmente.
+Estudiante de SMX en transición hacia DAM, con interés en tecnología, sistemas y desarrollo de software. Me interesa especialmente entender cómo funciona la tecnología más allá de la perspectiva del usuario común, combinando sistemas, redes y desarrollo mientras continúo creciendo técnica y profesionalmente.
 
+---
 
 ### 🛠️ Tecnologías y herramientas
 
-* **Sistemas y Servidores:** Linux, Windows Server, Active Directory, Virtualización.
-* **Redes e Infraestructura:** Servicios DHCP / DNS, diseño en Cisco Packet Tracer.
-* **Plataformas y Servicios:** Moodle, Nextcloud, osTicket, hMailServer.
-* **Desarrollo Web:** HTML / CSS (Básico).
+* **Sistemas y servidores:** Linux, Windows Server, Active Directory y virtualización.
+* **Redes:** DHCP / DNS y simulaciones en Cisco Packet Tracer.
+* **Plataformas y servicios:** Moodle, Nextcloud, osTicket y hMailServer.
+* **Desarrollo web:** HTML y CSS básico.
 
+---
 
 ### 💼 Experiencia
 
 **Fnac — Área de productos tecnológicos (Prácticas)**
-* Desarrollo de habilidades clave en atención al cliente, trabajo en equipo y organización en un entorno real.
-* Optimización de la comunicación, alta capacidad de adaptación y resolución de incidencias bajo presión.
+Durante mis prácticas desarrollé habilidades relacionadas con la atención al cliente, el trabajo en equipo, la organización y la resolución de problemas en un entorno real. Esta experiencia me ayudó a mejorar mi comunicación, capacidad de adaptación y forma de trabajar bajo presión.
 
+---
 
 ### 📚 Actualmente
 
-* 🎓 Finalizando SMX y preparándome para comenzar DAM en septiembre.
-* 💻 Ampliando conocimientos en desarrollo y arquitectura de software.
-* 🛠️ Construyendo mis primeros proyectos técnicos paso a paso.
+* Finalizando SMX y preparándome para comenzar DAM.
+* Aprendiendo más sobre desarrollo y software.
+* Construyendo proyectos técnicos paso a paso.
 
+---
 
 ### 🚀 Objetivos
 
-* ⚡ Desarrollar una base sólida en lógica de programación y desarrollo de software.
-* 📦 Construir y documentar proyectos reales y funcionales.
-* 🔄 Unir el mundo de los sistemas con el desarrollo para crear un perfil técnico versátil.
+* Mejorar mis habilidades de programación.
+* Construir proyectos reales y seguir aprendiendo.
+* Crecer profesionalmente dentro del sector tecnológico.
