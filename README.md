@@ -1,35 +1,38 @@
-# ¡Hola! Soy Rubén Aguilar 👋
+# Hi, I'm Rubén Aguilar 👋
 
-Estudiante de SMX en transición hacia DAM, con interés en tecnología, sistemas y desarrollo de software. Me interesa especialmente entender cómo funciona la tecnología más allá de la perspectiva del usuario común, combinando sistemas, redes y desarrollo mientras continúo creciendo técnica y profesionalmente.
+I'm interested in technology, systems and software development.
 
----
+Currently studying IT Systems and Networking and preparing to start Multiplatform Application Development (DAM) while continuing to improve my technical skills.
 
-## 🛠️ Tecnologías y herramientas
+## 🚀 Interests
 
-- **Sistemas y servidores:** Linux, Windows Server, Active Directory y virtualización.
-- **Redes:** DHCP / DNS y simulaciones en Cisco Packet Tracer.
-- **Plataformas y servicios:** Moodle, Nextcloud, osTicket y hMailServer.
-- **Desarrollo web:** HTML y CSS básico.
+- Software development
+- Systems and networking
+- Linux environments
+- Virtualization
+- Learning through projects
 
----
+## 🛠️ Technologies & Tools
 
-## 💼 Experiencia
+- Linux & Windows
+- Virtual machines
+- Cisco Packet Tracer
+- HTML & CSS
+- PHP basics
+- Moodle
+- Nextcloud
+- osTicket
+- hMailServer
 
-**Fnac — Área de productos tecnológicos (Prácticas)**  
-Durante mis prácticas desarrollé habilidades relacionadas con la atención al cliente, el trabajo en equipo, la organización y la resolución de problemas en un entorno real. Esta experiencia me ayudó a mejorar mi comunicación, capacidad de adaptación y forma de trabajar bajo presión.
+## 📚 Currently
 
----
+- Preparing to start DAM
+- Learning programming fundamentals
+- Building small technical projects
+- Improving my technical knowledge
 
-## 📚 Actualmente
+## 🎯 Goals
 
-- Finalizando SMX y preparándome para comenzar DAM.
-- Aprendiendo más sobre desarrollo y software.
-- Construyendo proyectos técnicos paso a paso.
-
----
-
-## 🎯 Objetivos
-
-- Mejorar mis habilidades de programación.
-- Construir proyectos reales y seguir aprendiendo.
-- Crecer profesionalmente dentro del sector tecnológico.
+- Improve my programming skills
+- Build real-world projects
+- Continue growing in the technology field
